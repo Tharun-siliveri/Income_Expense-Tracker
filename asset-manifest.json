@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tharun-siliveri/Income_Expense-Tracker/static/css/main.b02aa9ce.css",
+    "main.js": "/Tharun-siliveri/Income_Expense-Tracker/static/js/main.4fa614ec.js",
+    "index.html": "/Tharun-siliveri/Income_Expense-Tracker/index.html",
+    "main.b02aa9ce.css.map": "/Tharun-siliveri/Income_Expense-Tracker/static/css/main.b02aa9ce.css.map",
+    "main.4fa614ec.js.map": "/Tharun-siliveri/Income_Expense-Tracker/static/js/main.4fa614ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02aa9ce.css",
+    "static/js/main.4fa614ec.js"
+  ]
+}
