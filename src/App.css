@@ -1,0 +1,98 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: green;
+}
+
+.container {
+  width: 40vw;
+}
+
+.balance {}
+
+/* Inc_Exp.css */
+
+.inc_exp {
+  display: flex;
+  border: 1px solid #000;
+  padding: 2px;
+}
+
+.box1 {
+  flex: 1;
+  padding: 2px;
+  text-align: center;
+  border-right: 2px solid black;
+}
+
+.box2 {
+  flex: 1;
+  padding: 2px;
+  text-align: center;
+  border-left: 2px solid black;
+  background-color: orange;
+}
+
+.transactions {
+  border-top: 2px solid black;
+}
+
+.transaction {
+  display: flex;
+  align-items: center;
+}
+
+.delete_icon {
+  padding: 10px;
+}
+
+.transaction_item {
+  flex: 1;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 10px 2px 10px;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.positive {
+  background: linear-gradient(to right,
+      #ff0000,
+      #00ff00)
+}
+
+.negative {
+  background-color: lightblue;
+}
+
+.newTrans {
+  text-align: center;
+}
+
+.form {
+  border-top: 2px solid black;
+
+}
+
+.form_ele {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px;
+}
+
+input {
+  width: 70%;
+  border: none;
+  font-size: 25px;
+}
+
+button {
+  width: 80%;
+  padding: 5px;
+  margin: 5px;
+}
