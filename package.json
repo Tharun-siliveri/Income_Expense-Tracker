@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tharun-siliveri/Income_Expense_Tracker",
+  "homepage": "https://Tharun-siliveri.github.io/Income_Expense_Tracker/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
