@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Expense</h1>
+      <h1>Expense Tracker</h1>
       <div className="container">
         <Balance trans={trans} />
         <Inc_Exp trans={trans} />
